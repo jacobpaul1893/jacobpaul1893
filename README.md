@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Paul
 - 👀 I’m interested in Maths, Science and Technology
 - 🌱 I’m currently learning Data Science, Kubernetes, JavaScript etc.
-- 💞️ I’m looking to collaborate on anything exciting and upcoming in the tech realm
+- 💞️ I’m looking to collaborate on anything exciting and upcoming in the tech and science realm
 - 📫 How to reach me jacobpaul1895@gmail.com
 
 <!---
